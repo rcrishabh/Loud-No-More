@@ -21,7 +21,7 @@
     'use strict';
 
     /** Get the target volume value through the GM
-     * @return the
+     * @return the target volume percentage (numberic)
      */
     function get_target_volume() {
         /* Get the target volume value through the GM */
