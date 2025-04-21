@@ -2,10 +2,15 @@
 // @name         Loud No More
 // @namespace    https://github.com/Evilur
 // @version      1.0
-// @description  Save your ears from sudden autoplaying audio and video on blank pages with a built-in player
+// @description  Protects your ears from sudden loud sounds on pages that contain only a media player
 // @author       Evilur
-// @match        *://*/*
+// @license      MIT
+// @homepageURL  https://github.com/Evilur/Loud-No-More
+// @supportURL   https://github.com/Evilur/Loud-No-More/issues
+// @updateURL    https://raw.githubusercontent.com/Evilur/Loud-No-More/master/Loud%20No%20More.js
+// @downloadURL  https://raw.githubusercontent.com/Evilur/Loud-No-More/master/Loud%20No%20More.js
 // @run-at       document-end
+// @match        *://*/*
 // @grant        GM_getValue
 // @grant        GM_setValue
 // @grant        GM_registerMenuCommand
