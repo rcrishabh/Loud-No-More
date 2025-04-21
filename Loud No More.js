@@ -11,6 +11,7 @@
 // @downloadURL  https://raw.githubusercontent.com/Evilur/Loud-No-More/master/Loud%20No%20More.js
 // @run-at       document-end
 // @match        *://*/*
+// @match        file:///*
 // @grant        GM_getValue
 // @grant        GM_setValue
 // @grant        GM_registerMenuCommand
