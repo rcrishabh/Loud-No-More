@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Loud No More
 // @namespace    https://github.com/Evilur
-// @version      1.0
+// @version      1.1
 // @description  Protects your ears from sudden loud sounds on pages that contain only a media player
 // @author       Evilur
 // @license      MIT
